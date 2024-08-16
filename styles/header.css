@@ -1,5 +1,4 @@
 
-
 .cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
@@ -32,7 +31,5 @@
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
-.lista-menu__titulo {
-    color: var(--laranja);
-  }
-  
+
+    
