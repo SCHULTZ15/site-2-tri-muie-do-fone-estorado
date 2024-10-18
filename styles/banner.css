@@ -33,3 +33,13 @@
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;  
 }
+
+.banner__pesquisa::placeholder {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--branco);
+    background: url("../img/Lupa.svg") no-repeat;
+    background-position: 1em;
+  }
